@@ -1,2 +1,3 @@
 #!/bin/bash
-id -un
+i#!/bin/bash
+whoamii
